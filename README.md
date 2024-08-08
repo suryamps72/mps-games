@@ -42,8 +42,3 @@
 </a>
 
 <br>
-
-# Special thanks 🤝
-
-- **Amazing Aviator sprite made by [Karim Maaloul](https://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/)** <br>
-- **Gamepad icon made by [Smashicons](https://www.flaticon.com/authors/smashicons) from [www.flaticon.com](https://www.flaticon.com) is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0)**
